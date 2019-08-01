@@ -7,4 +7,4 @@ It is solved with Prolog.
 
 This app was built for the purpose of sharing my knowledge on it, this is explained in my personal Blog.
  
-You can check out this post [here](https://quijosakaf.com/public/blog/acertijo_del_granjero_la_cabra_el_lobo_y_la_col_en_prolog).
+You can check out this post [here](https://quijosakaf.com/public/blog/acertijo-del-lobo-la-cabra-y-la-col-en-prolog).
