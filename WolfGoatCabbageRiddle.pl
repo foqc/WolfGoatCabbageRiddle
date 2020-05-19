@@ -16,3 +16,4 @@ miembro(X, [_|L]):- miembro(X, L).
 
 solucion([E | L], [E | L]) :- meta(E).
 solucion([E | L], LS):- movimiento(E, EP), not(prohibido(EP)), not(miembro(EP, L)), solucion([EP, E | L], LS).
+% to run: solucion([estado(der, der, der, der)], L)
